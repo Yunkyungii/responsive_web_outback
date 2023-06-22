@@ -36,7 +36,6 @@
     color: #fff;
 }
 
-<<<<<<< HEAD
 .Header .Gnb>ul>li {
     position: relative;
     line-height: 100px;
@@ -80,8 +79,6 @@
     line-height: 30px;
 }
 
-=======
->>>>>>> 8efb5046f176abacbe87550469986651fd109254
 .Header .login {
     display: flex;
     gap: 30px;
@@ -651,7 +648,7 @@ sc: #907354*/
     color: #ddd;
     font-size: 18px;
     border-radius: 50%;
-<<<<<<< HEAD
+
 }
 
 .mobile_btn {
@@ -989,6 +986,4 @@ sc: #907354*/
         display: none;
     }
 
-=======
->>>>>>> 8efb5046f176abacbe87550469986651fd109254
 }

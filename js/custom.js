@@ -42,19 +42,19 @@ $(function () {
 
     const ItmSlide = new Swiper('.itm_slide', {
         loop: true,
-<<<<<<< HEAD
+
         slidesPerView: 1,
         spaceBetween: 30,
-=======
+
         slidesPerView: 2,
         spaceBetween: 400,
->>>>>>> 8efb5046f176abacbe87550469986651fd109254
+
         speed: 900,
         autoplay: {
             delay: 4000,
             disableOnInteraction: false,
         },
-<<<<<<< HEAD
+
 
         breakpoints: {
             768: {
@@ -62,8 +62,7 @@ $(function () {
                 spaceBetween: 400,
             }
         }
-=======
->>>>>>> 8efb5046f176abacbe87550469986651fd109254
+
     })
 
 
@@ -81,7 +80,7 @@ $(function () {
         MainSlide.slideTo(idx);
     })
 
-<<<<<<< HEAD
+
     // 모바일(768px)
     $('.mobile_btn').on('click', function () {
         $(this).toggleClass('on');
@@ -97,10 +96,6 @@ $(function () {
     $(window).on('resize', function () {
         $('.Gnb .snb').removeAttr('style')
     })
-=======
 
 
-
-
->>>>>>> 8efb5046f176abacbe87550469986651fd109254
 })
